@@ -1,0 +1,13 @@
+# SPDX-FileCopyrightText: 2026 sablerti <work.feliks@proton.me>
+#
+# SPDX-License-Identifier: AGPL-3.0-or-later
+
+- files: ["Wormix_Station_1920_1080.webp"]
+  license: "CC-BY-SA-3.0"
+  copyright: "seledq"
+  source: "Discord order"
+
+- files: ["WS1920_1080.webp"]
+  license: "CC-BY-SA-3.0"
+  copyright: "seledq"
+  source: "Discord order"

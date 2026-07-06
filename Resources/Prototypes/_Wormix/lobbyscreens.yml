@@ -1,0 +1,11 @@
+- type: lobbyBackground
+  id: WormixStationBackground
+  background: /Textures/_Wormix/LobbyScreens/Wormix_Station_1920_1080.webp
+  name: "Рай РП червей"
+  artist: "sablerti & seledq" 
+  
+- type: lobbyBackground
+  id: WSBackground
+  background: /Textures/_Wormix/LobbyScreens/WS1920_1080.webp
+  name: "Рай РП червей"
+  artist: "sablerti & seledq" 
