@@ -400,6 +400,20 @@ namespace Content.Server.Database
             return new HumanoidCharacterProfile(
                 profile.CharacterName,
                 profile.FlavorText,
+                profile.ERPStatus, // SD ERP status
+                // Orion-Start
+                profile.OOCFlavorText,
+                profile.CharacterFlavorText,
+                profile.GreenFlavorText,
+                profile.YellowFlavorText,
+                profile.RedFlavorText,
+                profile.TagsFlavorText,
+                profile.LinksFlavorText,
+                profile.NSFWFlavorText,
+                profile.NSFWOOCFlavorText,
+                profile.NSFWLinksFlavorText,
+                profile.NSFWTagsFlavorText,
+                // Orion-End
                 profile.Species,
                 voice, // CorvaxGoob-TTS
                 profile.Age,
