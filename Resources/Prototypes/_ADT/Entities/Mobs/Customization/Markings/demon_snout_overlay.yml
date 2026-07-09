@@ -1,0 +1,26 @@
+- type: marking
+  id: ADTDemonFreakyTongue
+  bodyPart: Snout
+  markingCategory: Snout
+  #speciesRestriction: [Demon]
+  sprites:
+    - sprite: /Textures/_ADT/Mobs/Customization/Demon/demon_snout_overlay.rsi
+      state: demon_freaky_tongue
+
+- type: marking
+  id: ADTDemonFreakyTongueFast
+  bodyPart: Snout
+  markingCategory: Snout
+  #speciesRestriction: [Demon]
+  sprites:
+    - sprite: /Textures/_ADT/Mobs/Customization/Demon/demon_snout_overlay.rsi
+      state: demon_freaky_tongue_fast
+
+- type: marking
+  id: ADTDemonFreakyTongueSlow
+  bodyPart: Snout
+  markingCategory: Snout
+  #speciesRestriction: [Demon]
+  sprites:
+    - sprite: /Textures/_ADT/Mobs/Customization/Demon/demon_snout_overlay.rsi
+      state: demon_freaky_tongue_slow

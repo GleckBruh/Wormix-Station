@@ -1,0 +1,158 @@
+- type: marking
+  id: DraskArmRight
+  bodyPart: RHand
+  markingCategory: RightHand
+  #speciesRestriction: [Drask]
+  sponsorOnly: false
+  coloring:
+    default:
+      type:
+        !type:CategoryColoring
+        category: Hair
+      fallbackTypes:
+        - !type:SkinColoring
+    layers:
+      r_arm:
+        type:
+          !type:SimpleColoring
+          color: "#171717"
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Drask/custom.rsi
+      state: r_arm
+
+- type: marking
+  id: DraskArmLeft
+  bodyPart: LHand
+  markingCategory: LeftHand
+  #speciesRestriction: [Drask]
+  sponsorOnly: false
+  coloring:
+    default:
+      type:
+        !type:CategoryColoring
+        category: Hair
+      fallbackTypes:
+        - !type:SkinColoring
+    layers:
+      l_arm:
+        type:
+          !type:SimpleColoring
+          color: "#171717"
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Drask/custom.rsi
+      state: l_arm
+
+- type: marking
+  id: ADTDraskChestRoughnessChest
+  bodyPart: Chest
+  markingCategory: Chest
+  #speciesRestriction: [Drask]
+  sprites:
+  - sprite: _ADT/Mobs/Customization/Drask/custom.rsi
+    state: roughness_body
+
+- type: marking
+  id: ADTDraskRoughnessArms
+  bodyPart: LArm
+  markingCategory: LeftArm
+  #speciesRestriction: [Drask]
+  sprites:
+  - sprite: _ADT/Mobs/Customization/Drask/custom.rsi
+    state: roughness_arms
+
+- type: marking
+  id: ADTDraskRoughnessLegs
+  bodyPart: LLeg
+  markingCategory: LeftLeg
+  #speciesRestriction: [Drask]
+  sprites:
+  - sprite: _ADT/Mobs/Customization/Drask/custom.rsi
+    state: roughness_legs
+
+- type: marking
+  id: FaceDrask
+  bodyPart: HeadSide
+  markingCategory: HeadSide
+  followSkinColor: true
+  forcedColoring: true
+  #speciesRestriction: [Drask]
+  sprites:
+  - sprite: _ADT/Mobs/Customization/Drask/Face.rsi
+    state: tentacles
+
+- type: marking
+  id: FaceDraskBig
+  bodyPart: HeadSide
+  markingCategory: HeadSide
+  followSkinColor: true
+  forcedColoring: true
+  #speciesRestriction: [Drask]
+  sprites:
+  - sprite: _ADT/Mobs/Customization/Drask/Face.rsi
+    state: tentacles_big
+
+- type: marking
+  id: FaceDraskDouble
+  bodyPart: HeadSide
+  markingCategory: HeadSide
+  followSkinColor: true
+  forcedColoring: true
+  #speciesRestriction: [Drask]
+  sprites:
+  - sprite: _ADT/Mobs/Customization/Drask/Face.rsi
+    state: tentacles_double
+
+- type: marking
+  id: DraskHeadBig
+  bodyPart: HeadSide
+  markingCategory: HeadSide
+  followSkinColor: true
+  forcedColoring: true
+  #speciesRestriction: [Drask]
+  sprites:
+  - sprite: _ADT/Mobs/Customization/Drask/Head.rsi
+    state: head_big
+
+- type: marking
+  id: DraskHeadSquid
+  bodyPart: HeadSide
+  markingCategory: HeadSide
+  followSkinColor: true
+  forcedColoring: true
+  #speciesRestriction: [Drask]
+  sprites:
+  - sprite: _ADT/Mobs/Customization/Drask/Head.rsi
+    state: squid
+
+- type: marking
+  id: DraskHeadSquidTent
+  bodyPart: HeadSide
+  markingCategory: HeadSide
+  followSkinColor: true
+  forcedColoring: true
+  #speciesRestriction: [Drask]
+  sprites:
+  - sprite: _ADT/Mobs/Customization/Drask/Head.rsi
+    state: squid_tent
+
+- type: marking
+  id: DraskBodyTentaclesSmall
+  bodyPart: Chest
+  markingCategory: Chest
+  #speciesRestriction: [Drask]
+  followSkinColor: true
+  forcedColoring: true
+  sprites:
+  - sprite: _ADT/Mobs/Customization/Drask/Body.rsi
+    state: tentacles_small
+
+- type: marking
+  id: DraskBodyTentaclesMany
+  bodyPart: Chest
+  markingCategory: Chest
+  #speciesRestriction: [Drask]
+  followSkinColor: true
+  forcedColoring: true
+  sprites:
+  - sprite: _ADT/Mobs/Customization/Drask/Body.rsi
+    state: tentacles_many

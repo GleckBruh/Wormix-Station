@@ -1,0 +1,315 @@
+- type: marking
+  id: SlimeRabbitAntennae
+  bodyPart: Head
+  markingCategory: HeadTop
+  speciesRestriction: [Slime]
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Slime/custom.rsi
+      state: rabbit-antennae
+
+- type: marking
+  id: SlimeRabbitEars
+  bodyPart: Head
+  markingCategory: HeadTop
+  speciesRestriction: [Slime]
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Slime/custom.rsi
+      state: rabbit-ears
+
+- type: marking
+  id: SlimeButterflyWings
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [Slime]
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Slime/custom.rsi
+      state: butterfly_wings
+
+#slime-Frontier
+- type: marking
+  id: ADTSlimeNose
+  bodyPart: Head
+  markingCategory: Head
+  speciesRestriction: [Slime]
+  forcedColoring: true
+  followSkinColor: true
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Frontier/slime_parts.rsi
+      state: nose
+
+- type: marking
+  id: ADTSlimeMouth
+  bodyPart: Head
+  markingCategory: Head
+  speciesRestriction: [Slime]
+  followSkinColor: true
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Frontier/slime_parts.rsi
+      state: mouth
+
+- type: marking
+  id: ADTSlimeBrain
+  bodyPart: Head
+  markingCategory: Head
+  speciesRestriction: [Slime]
+  followSkinColor: true
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Frontier/slime_parts.rsi
+      state: brain
+
+- type: marking
+  id: ADTSlimeEyeglow
+  bodyPart: Eyes
+  markingCategory: Head
+  speciesRestriction: [Slime]
+  coloring:
+    default:
+      type: !type:EyeColoring
+        negative: false
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Frontier/slime_parts.rsi
+      state: eyeglow
+  shader: unshaded
+
+- type: marking
+  id: ADTSlimeEyeglowWide
+  bodyPart: Eyes
+  markingCategory: Head
+  speciesRestriction: [Slime]
+  coloring:
+    default:
+      type: !type:EyeColoring
+        negative: false
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Frontier/slime_parts.rsi
+      state: eyeglowwide
+    - sprite: _ADT/Mobs/Customization/Frontier/slime_parts.rsi
+      state: eyeglow
+  shader: unshaded
+
+- type: marking
+  id: ADTSlimeEyeglowBig
+  bodyPart: Eyes
+  markingCategory: Head
+  speciesRestriction: [Slime]
+  coloring:
+    default:
+      type: !type:EyeColoring
+        negative: false
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Frontier/slime_parts.rsi
+      state: c_eyeglowbig
+    - sprite: _ADT/Mobs/Customization/Frontier/slime_parts.rsi
+      state: s_eyeglowbig
+  shader: unshaded
+
+- type: marking
+  id: ADTSlimeLungs
+  bodyPart: Chest
+  markingCategory: Chest
+  speciesRestriction: [Slime]
+  followSkinColor: true
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Frontier/slime_parts.rsi
+      state: lungs
+
+- type: marking
+  id: ADTSlimeCore
+  bodyPart: Chest
+  markingCategory: Chest
+  speciesRestriction: [Slime]
+  followSkinColor: true
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Frontier/slime_parts.rsi
+      state: core
+
+- type: marking
+  id: ADTSlimeBonehead
+  bodyPart: Head
+  markingCategory: Head
+  speciesRestriction: [Slime]
+  followSkinColor: false
+  coloring:
+    default:
+      type: !type:SimpleColoring
+        color: "#F8F8F8"
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Frontier/slime_parts.rsi
+      state: bonehead
+
+- type: marking
+  id: ADTSlimeBonechest
+  bodyPart: Chest
+  markingCategory: Chest
+  speciesRestriction: [Slime]
+  followSkinColor: false
+  coloring:
+    default:
+      type: !type:SimpleColoring
+        color: "#F8F8F8"
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Frontier/slime_parts.rsi
+      state: bonechest
+
+- type: marking
+  id: ADTSlimeBonearmleft
+  bodyPart: LArm
+  markingCategory: LeftArm
+  speciesRestriction: [Slime]
+  followSkinColor: false
+  coloring:
+    default:
+      type: !type:SimpleColoring
+        color: "#F8F8F8"
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Frontier/slime_parts.rsi
+      state: bonearmleft
+
+- type: marking
+  id: ADTSlimeBonearmright
+  bodyPart: RArm
+  markingCategory: RightArm
+  speciesRestriction: [Slime]
+  followSkinColor: false
+  coloring:
+    default:
+      type: !type:SimpleColoring
+        color: "#F8F8F8"
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Frontier/slime_parts.rsi
+      state: bonearmright
+
+- type: marking
+  id: ADTSlimeBonefootleft
+  bodyPart: LFoot
+  markingCategory: LeftFoot
+  speciesRestriction: [Slime]
+  followSkinColor: false
+  coloring:
+    default:
+      type: !type:SimpleColoring
+        color: "#F8F8F8"
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Frontier/slime_parts.rsi
+      state: bonefootleft
+
+- type: marking
+  id: ADTSlimeBonefootright
+  bodyPart: RFoot
+  markingCategory: RightFoot
+  speciesRestriction: [Slime]
+  followSkinColor: false
+  coloring:
+    default:
+      type: !type:SimpleColoring
+        color: "#F8F8F8"
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Frontier/slime_parts.rsi
+      state: bonefootright
+
+- type: marking
+  id: ADTSlimeBonehandleft
+  bodyPart: LHand
+  markingCategory: LeftHand
+  speciesRestriction: [Slime]
+  followSkinColor: false
+  coloring:
+    default:
+      type: !type:SimpleColoring
+        color: "#F8F8F8"
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Frontier/slime_parts.rsi
+      state: bonehandleft
+
+- type: marking
+  id: ADTSlimeBonehandright
+  bodyPart: RHand
+  markingCategory: RightHand
+  speciesRestriction: [Slime]
+  followSkinColor: false
+  coloring:
+    default:
+      type: !type:SimpleColoring
+        color: "#F8F8F8"
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Frontier/slime_parts.rsi
+      state: bonehandright
+
+- type: marking
+  id: ADTSlimeBonelegleft
+  bodyPart: LLeg
+  markingCategory: LeftLeg
+  speciesRestriction: [Slime]
+  followSkinColor: false
+  coloring:
+    default:
+      type: !type:SimpleColoring
+        color: "#F8F8F8"
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Frontier/slime_parts.rsi
+      state: bonelegleft
+
+- type: marking
+  id: ADTSlimeBonelegright
+  bodyPart: RLeg
+  markingCategory: RightLeg
+  speciesRestriction: [Slime]
+  followSkinColor: false
+  coloring:
+    default:
+      type: !type:SimpleColoring
+        color: "#F8F8F8"
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Frontier/slime_parts.rsi
+      state: bonelegright
+
+- type: marking
+  id: ADTfizz
+  bodyPart: Head
+  markingCategory: Head
+  speciesRestriction: [Slime]
+  forcedColoring: false
+  followSkinColor: false
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Frontier/animatedmarkings.rsi
+      state: fizz
+
+- type: marking
+  id: ADTbubble
+  bodyPart: Chest
+  markingCategory: Chest
+  speciesRestriction: [Slime]
+  forcedColoring: false
+  followSkinColor: false
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Frontier/animatedmarkings.rsi
+      state: bubble
+
+- type: marking
+  id: ADTfishbowl
+  bodyPart: Chest
+  markingCategory: Chest
+  speciesRestriction: [Slime]
+  forcedColoring: false
+  followSkinColor: false
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Frontier/animatedmarkings.rsi
+      state: fishbowl1
+    - sprite: _ADT/Mobs/Customization/Frontier/animatedmarkings.rsi
+      state: fishbowl2
+
+- type: marking
+  id: ADTFadingStars
+  bodyPart: Head
+  markingCategory: Head
+  speciesRestriction: [Slime]
+  forcedColoring: false
+  followSkinColor: false
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Frontier/animatedmarkings.rsi
+      state: fadingstars1
+    - sprite: _ADT/Mobs/Customization/Frontier/animatedmarkings.rsi
+      state: fadingstars2
+    - sprite: _ADT/Mobs/Customization/Frontier/animatedmarkings.rsi
+      state: fadingstars3
+  shader: unshaded

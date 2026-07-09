@@ -1,0 +1,330 @@
+# Simple Station
+
+- type: marking
+  speciesRestriction: [IPC]
+  id: ADTIPCScreenPoxui
+  bodyPart: Face
+  markingCategory: Face
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Ipc/ipc_screens.rsi
+      state: ipc_screen_poxui
+  shader: unshaded
+
+- type: marking
+  speciesRestriction: [IPC]
+  id: ADTIPCScreenAbsolutepoxui
+  bodyPart: Face
+  markingCategory: Face
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Ipc/ipc_screens.rsi
+      state: ipc_screen_absolute_poxui
+  shader: unshaded
+
+- type: marking
+  speciesRestriction: [IPC]
+  id: ADTIPCScreenAwesome
+  bodyPart: Face
+  markingCategory: Face
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Ipc/ipc_screens.rsi
+      state: ipc_screen_awesome
+  shader: unshaded
+
+- type: marking
+  speciesRestriction: [IPC]
+  id: ADTIPCScreenBestfriend
+  bodyPart: Face
+  markingCategory: Face
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Ipc/ipc_screens.rsi
+      state: ipc_screen_best_friend
+  shader: unshaded
+
+- type: marking
+  speciesRestriction: [IPC]
+  id: ADTIPCScreenBigsmile
+  bodyPart: Face
+  markingCategory: Face
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Ipc/ipc_screens.rsi
+      state: ipc_screen_bigsmile
+  shader: unshaded
+
+- type: marking
+  speciesRestriction: [IPC]
+  id: ADTIPCScreenBoredom
+  bodyPart: Face
+  markingCategory: Face
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Ipc/ipc_screens.rsi
+      state: ipc_screen_boredom
+  shader: unshaded
+
+- type: marking
+  speciesRestriction: [IPC]
+  id: ADTIPCScreenClown
+  bodyPart: Face
+  markingCategory: Face
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Ipc/ipc_screens.rsi
+      state: ipc_screen_clown
+  shader: unshaded
+
+- type: marking
+  speciesRestriction: [IPC]
+  id: ADTIPCScreenCreeper
+  bodyPart: Face
+  markingCategory: Face
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Ipc/ipc_screens.rsi
+      state: ipc_screen_creeper
+  shader: unshaded
+
+- type: marking
+  speciesRestriction: [IPC]
+  id: ADTIPCScreenDealmaker
+  bodyPart: Face
+  markingCategory: Face
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Ipc/ipc_screens.rsi
+      state: ipc_screen_dealmaker
+  shader: unshaded
+
+- type: marking
+  speciesRestriction: [IPC]
+  id: ADTIPCScreenMime
+  bodyPart: Face
+  markingCategory: Face
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Ipc/ipc_screens.rsi
+      state: ipc_screen_mime
+  shader: unshaded
+
+- type: marking
+  speciesRestriction: [IPC]
+  id: ADTIPCScreenMonkey
+  bodyPart: Face
+  markingCategory: Face
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Ipc/ipc_screens.rsi
+      state: ipc_screen_monkey
+  shader: unshaded
+
+- type: marking
+  speciesRestriction: [IPC]
+  id: ADTIPCScreenMrgutsy
+  bodyPart: Face
+  markingCategory: Face
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Ipc/ipc_screens.rsi
+      state: ipc_screen_mr_gutsy
+  shader: unshaded
+
+- type: marking
+  speciesRestriction: [IPC]
+  id: ADTIPCScreenNerd
+  bodyPart: Face
+  markingCategory: Face
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Ipc/ipc_screens.rsi
+      state: ipc_screen_nerd
+  shader: unshaded
+
+- type: marking
+  speciesRestriction: [IPC]
+  id: ADTIPCScreenNya
+  bodyPart: Face
+  markingCategory: Face
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Ipc/ipc_screens.rsi
+      state: ipc_screen_nya
+  shader: unshaded
+
+- type: marking
+  speciesRestriction: [IPC]
+  id: ADTIPCScreenOko
+  bodyPart: Face
+  markingCategory: Face
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Ipc/ipc_screens.rsi
+      state: ipc_screen_oko
+  shader: unshaded
+
+- type: marking
+  speciesRestriction: [IPC]
+  id: ADTIPCScreenRock
+  bodyPart: Face
+  markingCategory: Face
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Ipc/ipc_screens.rsi
+      state: ipc_screen_rock
+  shader: unshaded
+
+- type: marking
+  speciesRestriction: [IPC]
+  id: ADTIPCScreenSkull
+  bodyPart: Face
+  markingCategory: Face
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Ipc/ipc_screens.rsi
+      state: ipc_screen_skull
+  shader: unshaded
+
+- type: marking
+  speciesRestriction: [IPC]
+  id: ADTIPCScreenTenna
+  bodyPart: Face
+  markingCategory: Face
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Ipc/ipc_screens.rsi
+      state: ipc_screen_tenna
+  shader: unshaded
+
+- type: marking
+  speciesRestriction: [IPC]
+  id: ADTIPCScreenCuteNeutral
+  bodyPart: Face
+  markingCategory: Face
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Ipc/ipc_screens.rsi
+      state: ipc_screen_cute_neutral
+  shader: unshaded
+
+- type: marking
+  speciesRestriction: [IPC]
+  id: ADTIPCScreenCuteEyes
+  bodyPart: Face
+  markingCategory: Face
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Ipc/ipc_screens.rsi
+      state: ipc_screen_cute_eyes
+  shader: unshaded
+
+- type: marking
+  speciesRestriction: [IPC]
+  id: ADTIPCScreenCuteAngry
+  bodyPart: Face
+  markingCategory: Face
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Ipc/ipc_screens.rsi
+      state: ipc_screen_cute_angry
+  shader: unshaded
+
+- type: marking
+  speciesRestriction: [IPC]
+  id: ADTIPCScreenCuteSuspicious
+  bodyPart: Face
+  markingCategory: Face
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Ipc/ipc_screens.rsi
+      state: ipc_screen_cute_suspicious
+  shader: unshaded
+
+- type: marking
+  speciesRestriction: [IPC]
+  id: ADTIPCScreenCuteWorried
+  bodyPart: Face
+  markingCategory: Face
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Ipc/ipc_screens.rsi
+      state: ipc_screen_cute_worried
+  shader: unshaded
+
+- type: marking
+  speciesRestriction: [IPC]
+  id: ADTIPCScreenCuteSmirking
+  bodyPart: Face
+  markingCategory: Face
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Ipc/ipc_screens.rsi
+      state: ipc_screen_cute_smirking
+  shader: unshaded
+
+- type: marking
+  speciesRestriction: [IPC]
+  id: ADTIPCScreenCuteCryed
+  bodyPart: Face
+  markingCategory: Face
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Ipc/ipc_screens.rsi
+      state: ipc_screen_cute_cryed
+  shader: unshaded
+
+- type: marking
+  speciesRestriction: [IPC]
+  id: ADTIPCScreenCuteLaughing
+  bodyPart: Face
+  markingCategory: Face
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Ipc/ipc_screens.rsi
+      state: ipc_screen_cute_laughing
+  shader: unshaded
+
+- type: marking
+  speciesRestriction: [IPC]
+  id: ADTIPCScreenCuteQuestioningly
+  bodyPart: Face
+  markingCategory: Face
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Ipc/ipc_screens.rsi
+      state: ipc_screen_cute_questioningly
+  shader: unshaded
+
+- type: marking
+  speciesRestriction: [IPC]
+  id: ADTIPCScreenCuteUnsurprised
+  bodyPart: Face
+  markingCategory: Face
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Ipc/ipc_screens.rsi
+      state: ipc_screen_cute_unsurprised
+  shader: unshaded
+
+- type: marking
+  speciesRestriction: [IPC]
+  id: ADTIPCScreenPacifist1
+  bodyPart: Face
+  markingCategory: Face
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Ipc/ipc_screens.rsi
+      state: ipc_screen_pacifist_1
+  shader: unshaded
+
+- type: marking
+  speciesRestriction: [IPC]
+  id: ADTIPCScreenPacifist2
+  bodyPart: Face
+  markingCategory: Face
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Ipc/ipc_screens.rsi
+      state: ipc_screen_pacifist_2
+  shader: unshaded
+
+- type: marking
+  speciesRestriction: [IPC]
+  id: ADTIPCScreenAscended
+  bodyPart: Face
+  markingCategory: Face
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Ipc/ipc_screens.rsi
+      state: ipc_screen_ascended
+  shader: unshaded
+
+- type: marking
+  speciesRestriction: [IPC]
+  id: ADTIPCScreenMonoeyeAlt
+  bodyPart: Face
+  markingCategory: Face
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Ipc/ipc_screens.rsi
+      state: ipc_screen_monoeye_alt
+  shader: unshaded
+
+- type: marking
+  id: ADTIPCScreenBroken
+  speciesRestriction: [IPC]
+  bodyPart: Face
+  markingCategory: Face
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Ipc/ipc_screens.rsi
+      state: ipc_screen_broken

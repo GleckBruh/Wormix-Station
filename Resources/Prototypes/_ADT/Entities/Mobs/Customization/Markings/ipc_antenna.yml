@@ -1,0 +1,167 @@
+# Simple Station
+
+- type: marking
+  speciesRestriction: [Ipc]
+  id: ADTIPCAntennaTv
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Ipc/ipc_antenna.rsi
+      state: ipc_antenna_tv
+
+- type: marking
+  speciesRestriction: [Ipc]
+  id: ADTIPCAntennaTesla
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Ipc/ipc_antenna.rsi
+      state: ipc_antenna_tesla
+
+# - type: marking
+#   speciesRestriction: [IPC]
+#   id: ADTIPCAntennaLightb
+#   bodyPart: Hair
+#   markingCategory: Hair
+#   sprites:
+#     - sprite: _ADT/Mobs/Customization/Ipc/ipc_antenna.rsi
+#       state: ipc_antenna_lightb
+
+# - type: marking
+#   speciesRestriction: [IPC]
+#   id: ADTIPCAntennaLight
+#   bodyPart: Hair
+#   markingCategory: Hair
+#   sprites:
+#     - sprite: _ADT/Mobs/Customization/Ipc/ipc_antenna.rsi
+#       state: ipc_antenna_light
+
+- type: marking
+  speciesRestriction: [Ipc]
+  id: ADTIPCAntennaCyberhead
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Ipc/ipc_antenna.rsi
+      state: ipc_antenna_cyberhead
+
+# - type: marking
+#   speciesRestriction: [IPC]
+#   id: ADTIPCAntennaSidelights
+#   bodyPart: Hair
+#   markingCategory: Hair
+#   sprites:
+#     - sprite: _ADT/Mobs/Customization/Ipc/ipc_antenna.rsi
+#       state: ipc_antenna_sidelights
+
+- type: marking
+  speciesRestriction: [Ipc]
+  id: ADTIPCAntennaAntlers
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Ipc/ipc_antenna.rsi
+      state: ipc_antenna_antlers
+
+- type: marking
+  speciesRestriction: [Ipc]
+  id: ADTIPCAntennaDroneeyes
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Ipc/ipc_antenna.rsi
+      state: ipc_antenna_droneeyes
+
+- type: marking
+  speciesRestriction: [Ipc]
+  id: ADTIPCAntennaCrowned
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Ipc/ipc_antenna.rsi
+      state: ipc_antenna_crowned
+
+- type: marking
+  speciesRestriction: [Ipc]
+  id: ADTIPCAntennaTowers
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Ipc/ipc_antenna.rsi
+      state: ipc_antenna_towers
+
+#Иллюми
+
+- type: marking
+  speciesRestriction: [Ipc]
+  id: ADTIPCAntennaDuality
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Ipc/ipc_antenna.rsi
+      state: ipc_antenna_duality
+
+- type: marking
+  speciesRestriction: [Ipc]
+  id: ADTIPCAntennaHoloaura
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Ipc/ipc_antenna.rsi
+      state: ipc_antenna_holo_aura
+
+- type: marking
+  speciesRestriction: [Ipc]
+  id: ADTIPCAntennaWireless
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Ipc/ipc_antenna.rsi
+      state: ipc_antenna_wireless_connection
+
+- type: marking
+  speciesRestriction: [Ipc]
+  id: ADTIPCAntennaSmallEye
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Ipc/ipc_antenna.rsi
+      state: ipc_antenna_eye
+
+- type: marking
+  speciesRestriction: [Ipc]
+  id: ADTIPCAntennaModule
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Ipc/ipc_antenna.rsi
+      state: ipc_antenna_module
+
+- type: marking
+  speciesRestriction: [Ipc]
+  id: ADTIPCAntennaFox
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Ipc/ipc_antenna.rsi
+      state: ipc_antenna_fox
+
+#Празат
+
+- type: marking
+  speciesRestriction: [Ipc]
+  id: ADTIPCAntennaCat
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Ipc/ipc_antenna.rsi
+      state: ipc_antenna_cat
+
+- type: marking
+  speciesRestriction: [Ipc]
+  id: ADTIPCAntennaTvAlt
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Ipc/ipc_antenna.rsi
+      state: ipc_antenna_tvalt

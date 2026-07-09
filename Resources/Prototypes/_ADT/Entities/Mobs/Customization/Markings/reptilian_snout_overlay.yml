@@ -1,0 +1,27 @@
+- type: marking
+  id: ADTReptilianTongue
+  bodyPart: Snout
+  markingCategory: Snout
+  speciesRestriction: [Reptilian]
+  sprites:
+    - sprite: /Textures/_ADT/Mobs/Customization/Reptilian/reptilian_snout_overlay.rsi
+      state: reptilian_tongue
+
+- type: marking
+  id: ADTReptilianTongueFast
+  bodyPart: Snout
+  markingCategory: Snout
+  speciesRestriction: [Reptilian]
+  sprites:
+    - sprite: /Textures/_ADT/Mobs/Customization/Reptilian/reptilian_snout_overlay.rsi
+      state: reptilian_tongue_fast
+
+- type: marking
+  id: ADTReptilianTongueSlow
+  bodyPart: Snout
+  markingCategory: Snout
+  speciesRestriction: [Reptilian]
+  sprites:
+    - sprite: /Textures/_ADT/Mobs/Customization/Reptilian/reptilian_snout_overlay.rsi
+      state: reptilian_tongue_slow
+

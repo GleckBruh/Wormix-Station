@@ -1,0 +1,10 @@
+- type: marking
+  id: ScepticEyesShadekin
+  bodyPart: Eyes
+  markingCategory: Overlay
+  speciesRestriction: [Shadowkin]
+  followSkinColor: true
+  forcedColoring: true
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Shadekin/shadekin_eyes.rsi
+      state: eyes_sceptic

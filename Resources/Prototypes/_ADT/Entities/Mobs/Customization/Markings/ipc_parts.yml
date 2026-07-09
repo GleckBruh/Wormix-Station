@@ -1,0 +1,81 @@
+- type: marking
+  speciesRestriction: [IPC]
+  id: ADTIPCPartChestCore
+  bodyPart: Chest
+  markingCategory: Chest
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Ipc/ipc_parts.rsi
+      state: chest_core
+
+- type: marking
+  speciesRestriction: [IPC]
+  id: ADTIPCPartChestDefaultLines
+  bodyPart: Chest
+  markingCategory: Chest
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Ipc/ipc_parts.rsi
+      state: chest_line_prime
+    - sprite: _ADT/Mobs/Customization/Ipc/ipc_parts.rsi
+      state: chest_line_second
+    - sprite: _ADT/Mobs/Customization/Ipc/ipc_parts.rsi
+      state: chest_line_third
+    - sprite: _ADT/Mobs/Customization/Ipc/ipc_parts.rsi
+      state: chest_line_fourth
+
+- type: marking
+  speciesRestriction: [IPC]
+  id: ADTIPCPartLArmDefaultLines
+  bodyPart: LArm
+  markingCategory: LeftArm
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Ipc/ipc_parts.rsi
+      state: l_arm_line_prime
+    - sprite: _ADT/Mobs/Customization/Ipc/ipc_parts.rsi
+      state: l_arm_line_second
+
+- type: marking
+  speciesRestriction: [IPC]
+  id: ADTIPCPartRArmDefaultLines
+  bodyPart: RArm
+  markingCategory: RightArm
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Ipc/ipc_parts.rsi
+      state: r_arm_line_prime
+    - sprite: _ADT/Mobs/Customization/Ipc/ipc_parts.rsi
+      state: r_arm_line_second
+
+- type: marking
+  speciesRestriction: [IPC]
+  id: ADTIPCPartLHandDefaultLines
+  bodyPart: LHand
+  markingCategory: LeftHand
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Ipc/ipc_parts.rsi
+      state: l_hand_line_prime
+
+- type: marking
+  speciesRestriction: [IPC]
+  id: ADTIPCPartRHandDefaultLines
+  bodyPart: RHand
+  markingCategory: RightHand
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Ipc/ipc_parts.rsi
+      state: r_hand_line_prime
+
+- type: marking
+  speciesRestriction: [IPC]
+  id: ADTIPCPartLFootDefaultLines
+  bodyPart: LFoot
+  markingCategory: LeftFoot
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Ipc/ipc_parts.rsi
+      state: l_foot_line_prime
+
+- type: marking
+  speciesRestriction: [IPC]
+  id: ADTIPCPartRFootDefaultLines
+  bodyPart: RFoot
+  markingCategory: RightFoot
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Ipc/ipc_parts.rsi
+      state: r_foot_line_prime

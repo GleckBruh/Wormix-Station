@@ -1,0 +1,35 @@
+- type: marking
+  id: MothAntennaTwisted
+  bodyPart: Head
+  markingCategory: HeadTop
+  speciesRestriction: [Moth]
+  sprites:
+  - sprite: _ADT/Mobs/Customization/Moth/custom.rsi
+    state: antenna-twisted
+
+- type: marking
+  id: MothAntennaLong
+  bodyPart: Head
+  markingCategory: HeadTop
+  speciesRestriction: [Moth]
+  sprites:
+  - sprite: _ADT/Mobs/Customization/Moth/custom.rsi
+    state: antenna-long
+
+- type: marking
+  id: MothAntennaHowler
+  bodyPart: Head
+  markingCategory: HeadTop
+  speciesRestriction: [Moth]
+  sprites:
+  - sprite: _ADT/Mobs/Customization/Moth/custom.rsi
+    state: antenna-howler
+
+- type: marking
+  id: MothAntennaFluffy
+  bodyPart: Head
+  markingCategory: HeadTop
+  speciesRestriction: [Moth]
+  sprites:
+  - sprite: _ADT/Mobs/Customization/Moth/custom.rsi
+    state: antenna-fluffy

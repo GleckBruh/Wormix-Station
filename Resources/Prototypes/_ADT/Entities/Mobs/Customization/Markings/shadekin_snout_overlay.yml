@@ -1,0 +1,27 @@
+- type: marking
+  id: ADTShadekinTongue
+  bodyPart: Snout
+  markingCategory: Snout
+  speciesRestriction: [Shadowkin]
+  sprites:
+    - sprite: /Textures/_ADT/Mobs/Customization/Shadekin/shadekin_snout_overlay.rsi
+      state: shadekin_tongue
+
+- type: marking
+  id: ADTShadekinTongueFast
+  bodyPart: Snout
+  markingCategory: Snout
+  speciesRestriction: [Shadowkin]
+  sprites:
+    - sprite: /Textures/_ADT/Mobs/Customization/Shadekin/shadekin_snout_overlay.rsi
+      state: shadekin_tongue_fast
+
+- type: marking
+  id: ADTShadekinTongueSlow
+  bodyPart: Snout
+  markingCategory: Snout
+  speciesRestriction: [Shadowkin]
+  sprites:
+    - sprite: /Textures/_ADT/Mobs/Customization/Shadekin/shadekin_snout_overlay.rsi
+      state: shadekin_tongue_slow
+

@@ -7,74 +7,28 @@
         "y": 32
     },
     "states": [
-        {
-            "name": "body_arrow",
+		{
+            "name": "gauze_lowerarm_r_shadekin",
             "directions": 4
         },
-        {
-            "name": "body_blackhole",
+		{
+            "name": "gauze_shoulder_shadekin",
             "directions": 4
         },
-        {
-            "name": "body_brace",
+		{
+            "name": "gauze_upperarm_l_shadekin",
             "directions": 4
         },
-        {
-            "name": "body_brawly",
+		{
+            "name": "gauze_upperarm_r_shadekin",
             "directions": 4
         },
-        {
-            "name": "body_heart",
+		{
+            "name": "gauze_upperleg_l_shadekin",
             "directions": 4
         },
-        {
-            "name": "body_ink",
-            "directions": 4
-        },
-        {
-            "name": "body_ink_anim",
-            "directions": 4,
-            "delays": [
-                [0.4, 0.4, 0.4, 0.4, 0.4, 0.4, 0.4, 0.4, 0.4, 0.4],
-                [0.4, 0.4, 0.4, 0.4, 0.4, 0.4, 0.4, 0.4, 0.4, 0.4],
-                [0.4, 0.4, 0.4, 0.4, 0.4, 0.4, 0.4, 0.4, 0.4, 0.4],
-                [0.4, 0.4, 0.4, 0.4, 0.4, 0.4, 0.4, 0.4, 0.4, 0.4]
-            ]
-        },
-        {
-            "name": "body_ink2",
-            "directions": 4
-        },
-        {
-            "name": "body_ink3",
-            "directions": 4
-        },
-        {
-            "name": "body_ink4",
-            "directions": 4
-        },
-        {
-            "name": "body_ink5",
-            "directions": 4
-        },
-        {
-            "name": "body_ink6",
-            "directions": 4
-        },
-        {
-            "name": "body_lines",
-            "directions": 4
-        },
-        {
-            "name": "body_neck",
-            "directions": 4
-        },
-        {
-            "name": "body_shield",
-            "directions": 4
-        },
-        {
-            "name": "body_vacuum",
+		{
+            "name": "gauze_upperleg_r_shadekin",
             "directions": 4
         }
     ]

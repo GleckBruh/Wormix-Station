@@ -1,0 +1,49 @@
+- type: marking
+  speciesRestriction: [IPC]
+  id: ADTIPCTailHydra
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Ipc/ipc_tails.rsi
+      state: ipc_tail_hydra_prime
+    - sprite: _ADT/Mobs/Customization/Ipc/ipc_tails.rsi
+      state: ipc_tail_hydra_second
+    - sprite: _ADT/Mobs/Customization/Ipc/ipc_tails.rsi
+      state: ipc_tail_hydra_third
+    - sprite: _ADT/Mobs/Customization/Ipc/ipc_tails.rsi
+      state: ipc_tail_hydra_fourth
+
+- type: marking
+  speciesRestriction: [IPC]
+  id: ADTIPCTailOctopus
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Ipc/ipc_tails.rsi
+      state: ipc_tail_octopus
+
+- type: marking
+  speciesRestriction: [IPC]
+  id: ADTIPCTailFox
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Ipc/ipc_tails.rsi
+      state: ipc_tail_fox_prime
+    - sprite: _ADT/Mobs/Customization/Ipc/ipc_tails.rsi
+      state: ipc_tail_fox_second
+    - sprite: _ADT/Mobs/Customization/Ipc/ipc_tails.rsi
+      state: ipc_tail_fox_third
+
+- type: marking
+  speciesRestriction: [IPC]
+  id: ADTIPCTailFork
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+    - sprite: _ADT/Mobs/Customization/Ipc/ipc_tails.rsi
+      state: ipc_tail_fork_prime
+    - sprite: _ADT/Mobs/Customization/Ipc/ipc_tails.rsi
+      state: ipc_tail_fork_second
+    - sprite: _ADT/Mobs/Customization/Ipc/ipc_tails.rsi
+      state: ipc_tail_fork_third

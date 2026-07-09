@@ -1,0 +1,114 @@
+{
+  "version": 7,
+  "license": "CC-BY-SA-3.0",
+  "copyright": "Taken from Yogstation at https://github.com/yogstation13/Yogstation/commit/9c046aa5327c71f9e93e45a34283b3a4aff58bd1, resprite by discord:prazat911, ipc_screen_poxui, ipc_screen_absolute_poxui, ipc_screen_awesome, ipc_screen_best_friend, ipc_screen_bigsmile, ipc_screen_boredom, ipc_screen_clown, ipc_screen_creeper, ipc_screen_dealmaker, ipc_screen_mime, ipc_screen_monkey, ipc_screen_mr_gutsy, ipc_screen_nerd, ipc_screen_nya, ipc_screen_oko, ipc_screen_rock, ipc_screen_skull, ipc_screen_tenna created by prazat911 (discord), ipc_screen_cute_neutral, ipc_screen_cute_eyes, ipc_screen_cute_angry, ipc_screen_cute_suspicious, ipc_screen_cute_worried, ipc_screen_cute_smirking, ipc_screen_cute_cryed, ipc_screen_cute_laughing, ipc_screen_cute_questioningly, ipc_screen_cute_unsurprised, ipc_screen_monoeye_alt sprited by orange6775 (discord)",
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    
+    {"name": "ipc_screen_monoeye", "directions": 4, "delays": [
+        [4, 0.1, 0.1, 0.1],
+        [4, 0.1, 0.1, 0.1],
+        [4, 0.1, 0.1, 0.1],
+        [4, 0.1, 0.1, 0.1]]},
+    {"name": "ipc_screen_poxui", "directions": 4},
+    {"name": "ipc_screen_absolute_poxui", "directions": 4},
+    {"name": "ipc_screen_awesome", "directions": 4},
+    {"name": "ipc_screen_nya", "directions": 4, "delays": [
+        [1.5, 1.5],
+        [1.5, 1.5],
+        [1.5, 1.5],
+        [1.5, 1.5]]},
+    {"name": "ipc_screen_bigsmile", "directions": 4},
+    {"name": "ipc_screen_best_friend", "directions": 4, "delays": [
+        [1.5, 1.5],
+        [1.5, 1.5],
+        [1.5, 1.5],
+        [1.5, 1.5]]},
+    {"name": "ipc_screen_clown", "directions": 4},
+    {"name": "ipc_screen_creeper", "directions": 4},
+    {"name": "ipc_screen_dealmaker", "directions": 4},
+    {"name": "ipc_screen_mime", "directions": 4},
+    {"name": "ipc_screen_monkey", "directions": 4},
+    {"name": "ipc_screen_mr_gutsy", "directions": 4},
+    {"name": "ipc_screen_nerd", "directions": 4},
+    {"name": "ipc_screen_boredom", "directions": 4, "delays": [
+        [1.5, 1.5],
+        [1.5, 1.5],
+        [1.5, 1.5],
+        [1.5, 1.5]]},
+    {"name": "ipc_screen_oko", "directions": 4, "delays": [
+        [2.4, 0.15, 0.15, 0.15],
+        [2.4, 0.15, 0.15, 0.15],
+        [2.4, 0.15, 0.15, 0.15],
+        [2.4, 0.15, 0.15, 0.15]]},
+    {"name": "ipc_screen_rock", "directions": 4, "delays": [
+        [1.5, 1.5],
+        [1.5, 1.5],
+        [1.5, 1.5],
+        [1.5, 1.5]]},
+    {"name": "ipc_screen_skull", "directions": 4},
+    {"name": "ipc_screen_tenna", "directions": 4},
+    {"name": "ipc_screen_cute_neutral", "directions": 4, "delays": [
+        [2.4, 0.15, 0.15, 0.15],
+        [2.4, 0.15, 0.15, 0.15],
+        [2.4, 0.15, 0.15, 0.15],
+        [2.4, 0.15, 0.15, 0.15]]},
+    {"name": "ipc_screen_cute_eyes", "directions": 4, "delays": [
+        [2.4, 0.15, 0.15, 0.15],
+        [2.4, 0.15, 0.15, 0.15],
+        [2.4, 0.15, 0.15, 0.15],
+        [2.4, 0.15, 0.15, 0.15]]},
+    {"name": "ipc_screen_cute_angry", "directions": 4, "delays": [
+        [2.4, 0.15, 0.15, 0.15],
+        [2.4, 0.15, 0.15, 0.15],
+        [2.4, 0.15, 0.15, 0.15],
+        [2.4, 0.15, 0.15, 0.15]]},
+    {"name": "ipc_screen_cute_suspicious", "directions": 4, "delays": [
+        [2.4, 0.3],
+        [2.4, 0.3],
+        [2.4, 0.3],
+        [2.4, 0.3]]},
+    {"name": "ipc_screen_cute_worried", "directions": 4, "delays": [
+        [2.4, 0.15, 0.15, 0.15],
+        [2.4, 0.15, 0.15, 0.15],
+        [2.4, 0.15, 0.15, 0.15],
+        [2.4, 0.15, 0.15, 0.15]]},
+    {"name": "ipc_screen_cute_smirking", "directions": 4, "delays": [
+        [2.4, 0.3],
+        [2.4, 0.3],
+        [2.4, 0.3],
+        [2.4, 0.3]]},
+    {"name": "ipc_screen_cute_cryed", "directions": 4, "delays": [
+        [0.6, 0.15, 0.15, 0.6, 0.15, 0.15, 0.15, 0.15, 0.15],
+        [0.6, 0.15, 0.15, 0.6, 0.15, 0.15, 0.15, 0.15, 0.15],
+        [0.6, 0.15, 0.15, 0.6, 0.15, 0.15, 0.15, 0.15, 0.15],
+        [0.6, 0.15, 0.15, 0.6, 0.15, 0.15, 0.15, 0.15, 0.15]]},
+    {"name": "ipc_screen_cute_laughing", "directions": 4, "delays": [
+        [0.3, 0.3],
+        [0.3, 0.3],
+        [0.3, 0.3],
+        [0.3, 0.3]]},
+    {"name": "ipc_screen_cute_questioningly", "directions": 4, "delays": [
+        [2.4, 0.15, 0.15, 0.15],
+        [2.4, 0.15, 0.15, 0.15],
+        [2.4, 0.15, 0.15, 0.15],
+        [2.4, 0.15, 0.15, 0.15]]},
+    {"name": "ipc_screen_cute_unsurprised", "directions": 4, "delays": [
+        [2.4, 0.3],
+        [2.4, 0.3],
+        [2.4, 0.3],
+        [2.4, 0.3]]},
+    {"name": "ipc_screen_ascended", "directions": 4, "delays": [
+        [0.2, 0.2],
+        [0.2, 0.2],
+        [0.2, 0.2],
+        [0.2, 0.2]]},
+    {"name": "ipc_screen_pacifist_1", "directions": 4},
+    {"name": "ipc_screen_pacifist_2", "directions": 4},
+    {"name": "ipc_screen_monoeye_alt", "directions": 4},
+    {"name": "ipc_screen_broken", "directions": 4}
+  ]
+}
