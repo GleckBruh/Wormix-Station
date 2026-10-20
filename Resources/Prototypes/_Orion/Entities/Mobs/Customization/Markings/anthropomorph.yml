@@ -682,8 +682,8 @@
 
 - type: marking
   id: AnthropomorphHeadSideAvali
-  bodyPart: HeadSide
-  markingCategory: HeadSide
+  bodyPart: HeadTop
+  markingCategory: HeadTop
   # speciesRestriction: [Anthropomorph, Reptilian]
   sprites:
   - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears.rsi
@@ -780,8 +780,8 @@
 
 - type: marking
   id: AnthropomorphHeadSideCatBig
-  bodyPart: HeadSide
-  markingCategory: HeadSide
+  bodyPart: HeadTop
+  markingCategory: HeadTop
   # speciesRestriction: [Anthropomorph, Felinid, Human]
   sprites:
   - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears.rsi
@@ -791,8 +791,8 @@
 
 - type: marking
   id: AnthropomorphHeadSideCatNormal
-  bodyPart: HeadSide
-  markingCategory: HeadSide
+  bodyPart: HeadTop
+  markingCategory: HeadTop
   # speciesRestriction: [Anthropomorph, Felinid, Human]
   sprites:
   - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears.rsi
@@ -813,8 +813,8 @@
 
 - type: marking
   id: AnthropomorphHeadSideCow
-  bodyPart: HeadSide
-  markingCategory: HeadSide
+  bodyPart: HeadTop
+  markingCategory: HeadTop
   # speciesRestriction: [Anthropomorph, Felinid, Human]
   sprites:
   - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears.rsi
@@ -822,8 +822,8 @@
 
 - type: marking
   id: AnthropomorphHeadSideDeer
-  bodyPart: HeadSide
-  markingCategory: HeadSide
+  bodyPart: HeadTop
+  markingCategory: HeadTop
   # speciesRestriction: [Anthropomorph, Felinid, Human]
   sprites:
   - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears.rsi
@@ -844,8 +844,8 @@
 
 - type: marking
   id: AnthropomorphHeadSideEevee
-  bodyPart: HeadSide
-  markingCategory: HeadSide
+  bodyPart: HeadTop
+  markingCategory: HeadTop
   # speciesRestriction: [Anthropomorph]
   sprites:
   - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears.rsi
@@ -853,8 +853,8 @@
 
 - type: marking
   id: AnthropomorphHeadSideElephant
-  bodyPart: HeadSide
-  markingCategory: HeadSide
+  bodyPart: HeadTop
+  markingCategory: HeadTop
   # speciesRestriction: [Anthropomorph]
   sprites:
   - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears.rsi
@@ -918,8 +918,8 @@
 
 - type: marking
   id: AnthropomorphHeadSideGret
-  bodyPart: HeadSide
-  markingCategory: HeadSide
+  bodyPart: HeadTop
+  markingCategory: HeadTop
   # speciesRestriction: [Anthropomorph]
   sprites:
   - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears.rsi
@@ -972,8 +972,8 @@
 
 - type: marking
   id: AnthropomorphHeadSideMouse
-  bodyPart: HeadSide
-  markingCategory: HeadSide
+  bodyPart: HeadTop
+  markingCategory: HeadTop
   # speciesRestriction: [Anthropomorph, Felinid, Human]
   sprites:
   - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears.rsi

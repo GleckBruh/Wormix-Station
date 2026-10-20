@@ -1,6 +1,6 @@
 - type: marking
   id: ADTAlldurak
-  bodyPart: Head
+  bodyPart: HeadTop
   markingCategory: HeadTop
   #sponsorOnly: true # Wormix edit
   sprites:
@@ -9,7 +9,7 @@
 
 - type: marking
   id: ADTAllhorn1
-  bodyPart: Head
+  bodyPart: HeadTop
   markingCategory: HeadTop
   #sponsorOnly: true # Wormix edit
   sprites:
@@ -18,7 +18,7 @@
 
 - type: marking
   id: ADTAllhorn2
-  bodyPart: Head
+  bodyPart: HeadTop
   markingCategory: HeadTop
   #sponsorOnly: true # Wormix edit
   sprites:
@@ -27,7 +27,7 @@
 
 - type: marking
   id: ADTAllhorn3
-  bodyPart: Head
+  bodyPart: HeadTop
   markingCategory: HeadTop
   #sponsorOnly: true # Wormix edit
   sprites:
@@ -36,7 +36,7 @@
 
 - type: marking
   id: ADTAllhorn4
-  bodyPart: Head
+  bodyPart: HeadTop
   markingCategory: HeadTop
   #sponsorOnly: true # Wormix edit
   sprites:
@@ -45,7 +45,7 @@
 
 - type: marking
   id: ADTAllhorn5
-  bodyPart: Head
+  bodyPart: HeadTop
   markingCategory: HeadTop
   #sponsorOnly: true # Wormix edit
   sprites:
@@ -54,7 +54,7 @@
 
 - type: marking
   id: ADTAllhorn6
-  bodyPart: Head
+  bodyPart: HeadTop
   markingCategory: HeadTop
   #sponsorOnly: true # Wormix edit
   sprites:
@@ -63,7 +63,7 @@
 
 - type: marking
   id: ADTAlllord
-  bodyPart: Head
+  bodyPart: HeadTop
   markingCategory: HeadTop
   #sponsorOnly: true # Wormix edit
   sprites:
@@ -72,7 +72,7 @@
 
 - type: marking
   id: ADTAlloldpain
-  bodyPart: Head
+  bodyPart: HeadTop
   markingCategory: HeadTop
   #sponsorOnly: true # Wormix edit
   sprites:
@@ -81,7 +81,7 @@
 
 - type: marking
   id: ADTAlltavrhorn
-  bodyPart: Head
+  bodyPart: HeadTop
   markingCategory: HeadTop
   #sponsorOnly: true # Wormix edit
   sprites:
@@ -90,7 +90,7 @@
 
 - type: marking
   id: ADTAlltelehorn
-  bodyPart: Head
+  bodyPart: HeadTop
   markingCategory: HeadTop
   #sponsorOnly: true # Wormix edit
   sprites:
@@ -99,7 +99,7 @@
 
 - type: marking
   id: ADTAllvampirehorn
-  bodyPart: Head
+  bodyPart: HeadTop
   markingCategory: HeadTop
   #sponsorOnly: true # Wormix edit
   sprites:

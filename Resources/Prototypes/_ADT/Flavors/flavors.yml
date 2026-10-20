@@ -1,0 +1,66 @@
+- type: flavor
+  id: adt_summershade
+  flavorType: Complex
+  description: flavor-complex-summershade
+
+- type: flavor
+  id: adt_wintersun
+  flavorType: Complex
+  description: flavor-complex-wintersun
+
+- type: flavor
+  id: adt_citrusbalance
+  flavorType: Complex
+  description: flavor-complex-citrusbalance
+
+- type: flavor
+  id: adt_dobtyidrink
+  flavorType: Complex
+  description: flavor-complex-dobtyidrink
+
+- type: flavor
+  id: adt_milkeclipse
+  flavorType: Complex
+  description: flavor-complex-milkeclipse
+
+- type: flavor
+  id: adt_arcticexlposion
+  flavorType: Complex
+  description: flavor-complex-arcticexlposion
+
+#Алкоголь базовый
+
+- type: flavor
+  id: adt_sugarknight
+  flavorType: Complex
+  description: flavor-complex-sugarknight
+
+- type: flavor
+  id: adt_saturdaybaron
+  flavorType: Complex
+  description: flavor-complex-saturdaybaron
+
+- type: flavor
+  id: adt_arcticlatte
+  flavorType: Complex
+  description: flavor-complex-arcticlatte
+
+- type: flavor
+  id: adt_oolongtea
+  flavorType: Complex
+  description: flavor-complex-oolongtea
+
+- type: flavor
+  id: adt_businessconversation
+  flavorType: Complex
+  description: flavor-complex-businessconversation
+
+- type: flavor
+  id: adt_elderguards
+  flavorType: Complex
+  description: flavor-complex-elderguards
+
+- type: flavor
+  id: adt_grapelady
+  flavorType: Complex
+  description: flavor-complex-grapelady
