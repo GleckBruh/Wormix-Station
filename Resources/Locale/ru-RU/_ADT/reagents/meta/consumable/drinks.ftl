@@ -21,3 +21,7 @@ milk-eclipse-desc = Мороженое с чаем? Дайте два!
 arctic-explosion-name = арктический взрыв
 
 arctic-explosion-desc = Маленькая полярная шапка в вашем стакане.
+
+hungover-angel-name = похмельный ангел
+
+hungover-angel-desc = Прошлая ночь удалась, друг? Надеюсь, это поможет, пей.

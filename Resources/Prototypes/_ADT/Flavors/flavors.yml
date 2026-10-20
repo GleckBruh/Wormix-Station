@@ -64,3 +64,8 @@
   id: adt_grapelady
   flavorType: Complex
   description: flavor-complex-grapelady
+
+- type: flavor
+  id: adt_hungoverangel
+  flavorType: Complex
+  description: flavor-complex-hungoverangel

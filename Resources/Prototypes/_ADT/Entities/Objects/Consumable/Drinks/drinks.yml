@@ -205,3 +205,19 @@
     - type: Icon
       sprite: _ADT/Objects/Consumable/Drinks/grapelady.rsi
       state: icon
+
+- type: entity
+  parent: DrinkGlass
+  id: ADTDrinkHungoverAngelGlass
+  suffix: HungoverAngel
+  components:
+    - type: SolutionContainerManager
+      solutions:
+        drink:
+          maxVol: 30
+          reagents:
+          - ReagentId: ADTHungoverAngel
+            Quantity: 30
+    - type: Icon
+      sprite: _ADT/Objects/Consumable/Drinks/hungoverangel.rsi
+      state: icon

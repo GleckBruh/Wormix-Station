@@ -49,3 +49,7 @@ ent-ADTDrinkElderGuardsGlass = { ent-DrinkGlass }
 ent-ADTDrinkGrapeLadyGlass = { ent-DrinkGlass }
     .suffix = Виноградная дама
     .desc = { ent-DrinkGlass.desc }
+
+ent-ADTDrinkHungoverAngelGlass = { ent-DrinkGlass }
+    .suffix = Похмельный ангел
+    .desc = { ent-DrinkGlass.desc }

@@ -143,3 +143,47 @@
   metamorphicMaxFillLevels: 5
   metamorphicFillBaseName: fill-
   metamorphicChangeColor: false
+
+- type: reagent
+  id: ADTHungoverAngel
+  name: hungover-angel-name
+  parent: BaseDrink
+  desc: hungover-angel-desc
+  physicalDesc: reagent-physical-desc-exhilarating
+  flavor: adt_hungoverangel
+  color: "#FBEC5D"
+  recognizable: false
+  metabolisms:
+    Drink:
+      effects:
+      - !type:SatiateThirst
+        factor: 3
+      - !type:AdjustTemperature
+        conditions:
+        - !type:TemperatureCondition
+          min: 290 #дает легкую прохладу
+        amount: -2500
+      - !type:HealthChange
+        damage:
+          types:
+            Poison: -0.5
+            Radiation: -0.5
+      - !type:PopupMessage
+        type: Local
+        visualType: Small
+        messages: [ "medicine-effect-hungover" ]
+        probability: 0.04
+      - !type:ModifyStatusEffect
+        effectProto: StatusEffectDrunk
+        time: 2.0
+        type: Remove
+      - !type:GenericStatusEffect
+        key: Drunk
+        time: 2.0
+        type: Remove
+  metamorphicSprite:
+    sprite: _ADT/Objects/Consumable/Drinks/hungoverangel.rsi
+    state: icon_empty
+  metamorphicMaxFillLevels: 5
+  metamorphicFillBaseName: fill-
+  metamorphicChangeColor: false

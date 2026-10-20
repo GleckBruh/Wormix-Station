@@ -23,3 +23,5 @@ flavor-complex-businessconversation = как горечь, алкоголь и �
 flavor-complex-elderguards = как закон и очень странная смесь алкоголя с нотками уксуса
 
 flavor-complex-grapelady = как крепкое вино с молочным оттенком
+
+flavor-complex-hungoverangel = как избавление от боли в висках
