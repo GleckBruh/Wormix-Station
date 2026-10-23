@@ -178,7 +178,7 @@
     ADTClothingUniformJumpsuitOldGreySuit: 3
     ADTClothingUniformJumpsuitTuxedo: 3
     ADTClothingUniformJumpsuitTuxedoWhite: 3
-    ADTClothingUniformJumpsuitTuxedoHell: 3 
+    ADTClothingUniformJumpsuitTuxedoHell: 3
     ADTClothingUniformJumpsuitTuxedoRed: 3
     ADTClothingUniformJumpsuitWhiteShirt: 3
     ADTClothingUniformJumpsuitBlackShirt: 3
@@ -207,6 +207,7 @@
     ClothingNeckCloakBlackCloak: 1
     ADTMaskCoif: 2
     ClothingShoesBootsBerrci: 5
+    ClothingNeckAlexSpikedChoker: 3
     # Wormix-End
     # DO NOT ADD MORE, USE UNIFORM DYING
   contrabandInventory:
